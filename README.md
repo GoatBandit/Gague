@@ -1,1 +1,1 @@
-# Gague
+Calculator app with temporary note-taking.
